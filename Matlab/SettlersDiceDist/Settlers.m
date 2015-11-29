@@ -17,5 +17,7 @@ title([num2str(a)])
 pause(0)
 end
 
+for i = 1:10
+end
 
 toc
